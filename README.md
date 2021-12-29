@@ -27,12 +27,20 @@
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/745417764365402185/925446075031113798/unknown.png?width=701&height=701">
 </div>
+<div>
   
 ### 🚀 Social Links
+  
   ##
+  
 <div>
   <a href="https://www.instagram.com/_tgaab/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:tiagogabrielcontato@icloud.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/tiagogab/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+  
+  ##
+  
+   <img align="right" alt="Rafa-pic" height="350" style="border-radius:50px;" src="https://media.discordapp.net/attachments/745417764365402185/925805379433148487/Pacman_-_Imgur.gif">
+ </div>
