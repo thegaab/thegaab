@@ -42,5 +42,5 @@
   
   ##
   
-   <img align="right" alt="Rafa-pic" height="350" style="border-radius:50px;" src="https://media.discordapp.net/attachments/745417764365402185/925805379433148487/Pacman_-_Imgur.gif">
+  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  </div>
