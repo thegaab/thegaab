@@ -2,8 +2,8 @@
 
 
 - 🔭 I’m currently working on front-end
-- 🌱 I’m currently learning JS and ReactJS
-- ⚡ Fun fact: no fun fact
+- 💻 I’m currently learning JS and ReactJS
+- 🤡 Fun fact: no fun fact
 
 
 ### ⚙️ GitHub Analytcs
