@@ -1,5 +1,8 @@
-### Hello world!
-
+<div align="center"> 
+  
+  ### Hello world!
+  ##
+</div>
 
 - 🔭 I’m currently working on front-end
 - 💻 I’m currently learning JS and ReactJS
