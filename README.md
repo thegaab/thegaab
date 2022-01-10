@@ -37,7 +37,7 @@
 <div>
   
   
-  ##  🚀 Contact Me
+  ##  Contact Me
   
 <div>
   
