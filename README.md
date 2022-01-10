@@ -4,13 +4,14 @@
   
 </div>
 
-- 🔭 I’m currently working on front-end
-- 💻 I’m currently learning JS and ReactJS
-- 🤡 Fun fact: no fun fact
+   My name is Tiago, I am 22 years old, currently I live in São Paulo, Brazil.
+   
+ I am a graduate student in systems analysis and development at the University of Mogi das Cruzes - UMC, in Mogi das Cruzes, São Paulo.
+ 
+ A Front-end developer, fascinated by innovation and the possibility of doing things in a different way than the conventional.
 
 
-### ⚙️ GitHub Analytcs
-##
+##  ⚙️ GitHub Analytcs
 
 <div align="center">
   <a href="https://github.com/thegaab">
@@ -18,29 +19,33 @@
   <img width="263em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thegaab&langs_count=7&theme=nightowl"/>
 </div>
 
-  
-### 👾 Principal Skills
- ## 
+ 
+ ##  👾 Principal Skills
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  .
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  .
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  .
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  .
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/745417764365402185/925446075031113798/unknown.png?width=701&height=701">
 </div>
 <div>
   
-### 🚀 Social Links
   
-  ##
+  ##  🚀 Contact Me
   
 <div>
-  <a href="https://www.instagram.com/_tgaab/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:tiagogabrielcontato@icloud.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/tiagogab/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+- <a href="https://www.instagram.com/_tgaab/">Instagram - @_tgaab</a>
+- <a href="https://twitter.com/_tgaab">Twitter - @_tgaab</a>
+- <a href="https://www.linkedin.com/in/tiagogab/">Linkedin</a>
+- <a href="mailto:tiagogabrielcontato@icloud.com">E-mail</a>
+
 </div>
   
   ##
