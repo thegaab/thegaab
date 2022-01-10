@@ -4,7 +4,7 @@
   
 </div>
 
-   My name is Tiago, I am 22 years old, currently I live in São Paulo, Brazil.
+   My name is Tiago Gabriel, 22 years old, currently i live in São Paulo, Brazil.
    
  I am a graduate student in systems analysis and development at the University of Mogi das Cruzes - UMC, in Mogi das Cruzes, São Paulo.
  
