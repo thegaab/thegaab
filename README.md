@@ -3,6 +3,9 @@
   ### Hello world!
   
 </div>
+<div>
+    <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://github.githubassets.com/images/mona-loading-default.gif">
+</div>
 
    My name is Tiago Gabriel, 22 years old, currently i live in São Paulo, Brazil.
    
