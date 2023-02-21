@@ -1,11 +1,13 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6272a4&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Tiago+Gabriel;I'm+23+years+old;I'm+from+Brazil;I'm+Full+stack+Developer;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
+<img width="300px" min-width="300px" max-width="300px" align="right" src="https://cdni.iconscout.com/illustration/premium/thumb/experiencing-metaverse-technology-5379645-4501853.png" alt="Computador Chriszao">
 
 <p>
   Fascinated by front end development, innovation and the unusual.
 
 I graduated in Systems Analysis and Development at Universidade Mogi das Cruzes, São Paulo, in 2021, currently acting ull stack Jr developer at Movida aluguel de veículos.
 </p>
+
 
 ##
 
