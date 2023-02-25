@@ -8,11 +8,13 @@
 I graduated in Systems Analysis and Development at Universidade Mogi das Cruzes, São Paulo, in 2021, currently acting ull stack Jr developer at Movida aluguel de veículos.
 </p>
 
-
 ##
 
 
 <h3 align="left">Principals languages and Tools:</h3>
+
+##
+
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://cdn3d.iconscout.com/3d/free/thumb/javascript-logo-6563586-5453022.png?f=webp" alt="javascript" width="40" height="40"/></a>
 <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968332.png" alt="php" width="40" height="40"/> </a>
