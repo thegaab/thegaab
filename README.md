@@ -37,7 +37,7 @@ I graduated in Systems Analysis and Development at Universidade Mogi das Cruzes,
 <h3 align="left">Contact me:</h3>
 
 <p align="left">
-<a href="https://twitter.com/_tgaab" target="blank"><img align="center" src="https://cdn3d.iconscout.com/3d/free/thumb/twitter-5391578-4503407.png?f=webp" alt="_tgaab" height="30" width="30" /></a>
-<a href="https://linkedin.com/in/tiagogab" target="blank"><img align="center" src="https://cdn3d.iconscout.com/3d/free/thumb/linkedin-2-5645838-4695696.png" alt="tiagogab" height="30" width="30" /></a>
-<a href="https://instagram.com/_tgaab" target="blank"><img align="center" src="https://static.vecteezy.com/system/resources/previews/010/063/436/original/instagram-app-icon-3d-render-free-png.png" alt="_tgaab" height="35" width="35" /></a>
+<a href="https://twitter.com/_tgaab" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/2858/PNG/512/twitter_logo_icon_181645.png" alt="_tgaab" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/tiagogab" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/2858/PNG/512/in_linkedin_logo_icon_181650.png" alt="tiagogab" height="30" width="30" /></a>
+<a href="https://instagram.com/_tgaab" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/2858/PNG/512/instagram_ig_logo_icon_181651.png" alt="_tgaab" height="30" width="30" /></a>
 </p>
