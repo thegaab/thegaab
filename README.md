@@ -5,7 +5,7 @@
 <p>
   Fascinated by front end development, innovation and the unusual.
 
-I graduated in Systems Analysis and Development at Universidade Mogi das Cruzes, São Paulo, in 2021, currently acting ull stack Jr developer at Movida aluguel de veículos.
+I graduated in Systems Analysis and Development at Universidade Mogi das Cruzes, São Paulo, in 2021, currently acting full stack Jr developer at Movida aluguel de veículos.
 </p>
 
 ##
