@@ -26,7 +26,6 @@ I'm a full-stack enthusiast dedicated to crafting amazing web experiences. Curre
 <h3 align="left">Contact me:</h3>
 
 <p align="left">
-<a href="https://twitter.com/_tgaab" target="blank"><img align="center" src="https://cdn.discordapp.com/attachments/955884943383343215/1129535578497622117/1491579583-yumminkysocialmedia02_83111.png" alt="_tgaab" height="30" width="30" /></a>
 <a href="https://linkedin.com/in/tiagogab" target="blank"><img align="center" src="https://cdn.discordapp.com/attachments/955884943383343215/1129535578157875311/1485482199-linkedin_78667.png" alt="tiagogab" height="30" width="30" /></a>
 <a href="https://instagram.com/_tgaab" target="blank"><img align="center" src="https://cdn.discordapp.com/attachments/955884943383343215/1129536353076514816/1491580658-yumminkysocialmedia06_83104.png" alt="_tgaab" height="30" width="30" /></a>
 </p>
