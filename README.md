@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6272a4&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Tiago+Gabriel;I'm+24+years+old;I'm+from+Brazil;I'm+Full+stack+Developer;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-<img width="300px" min-width="300px" max-width="300px" align="right" src="https://cdn3d.iconscout.com/3d/premium/thumb/web-developer-4506461-3738664.png" alt="Dev ilustration">
+<img width="150px" min-width="150px" max-width="150px" align="right" src="https://i.pinimg.com/originals/66/36/d3/6636d37ba22a391c6353b1436a81f656.gif" alt="Dev ilustration">
 
 <p>
 I'm a full-stack enthusiast dedicated to crafting amazing web experiences. Currently, my daily toolkit includes PHP for the back-end, JavaScript for the front-end, and SQL for efficient data manipulation.
