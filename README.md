@@ -15,9 +15,9 @@ I'm a full-stack enthusiast dedicated to crafting amazing web experiences. Curre
 
 ##
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thegaab&show_icons=true&locale=en&hide_progress=true&theme=prussian" alt="thegaab" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thegaab&show_icons=true&locale=en&layout=donut&theme=prussian" alt="thegaab" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thegaab&show_icons=true&locale=en&theme=prussian&layout=compact" alt="thegaab" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thegaab&show_icons=true&locale=en&theme=prussian&layout=compac" alt="thegaab" /></p>
 
 ##
 
