@@ -6,7 +6,7 @@
 
 ###
 
-<h3 align="left">Principals languages and Tools:</h3>
+<h3 align="left">I code with:</h3>
 
 ###
 
@@ -66,8 +66,4 @@
 
 <h3 align="left">Support:</h3>
 
-<p><a href="https://www.buymeacoffee.com/tgaab"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="tgaab" /></a></p><br><br>
-
-##
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=thegaab&label=Views&color=50C4ED&style=flat" alt="thegaab" /> </p>
+<p><a href="https://www.buymeacoffee.com/tgaab"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="150" alt="tgaab" /></a></p><br><br>
