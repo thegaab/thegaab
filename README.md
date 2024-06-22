@@ -34,6 +34,9 @@
   <img src="https://cdn.simpleicons.org/jenkins/D24939" height="30" alt="jenkins logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.icon-icons.com/icons2/2699/PNG/96/java_logo_icon_168609.png" height="30" alt="linux logo"  />
+
 </div>
 
 ###
