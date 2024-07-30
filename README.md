@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm a full-stack enthusiast dedicated to crafting amazing web experiences. Currently, my daily toolkit includes PHP for the back-end, JavaScript for the front-end, and SQL for efficient data manipulation.</p>
+<p align="left">I hold a degree in Technology in Systems Analysis and Development from Universidade de Mogi das Cruzes and am currently pursuing a postgraduate degree in Full Stack Development at FIAP in partnership with Alura. During this postgraduate program, I am deepening my knowledge in back-end, front-end, database, and cloud computing.</p>
 
 ###
 
