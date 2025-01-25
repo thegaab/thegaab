@@ -39,10 +39,13 @@
 
 <div align="left">
   <a href="https://www.linkedin.com/in/tiagogab/" target="_blank">
-    <img src="https://blakeoliver.com.au/wp-content/uploads/2023/06/vecteezy_linkedin-logo-png-linkedin-icon-transparent-png_18930585_835-1536x1536.png" width="65" height="65" alt="LinkedIn logo" />
+    <img src="https://imgur.com/qjp20eR.png" width="60" height="60" alt="LinkedIn logo" />
   </a>
   <a href="https://www.instagram.com/_tgaab/" target="_blank">
-    <img src="https://static.vecteezy.com/system/resources/thumbnails/018/930/692/small/instagram-logo-instagram-icon-transparent-free-png.png" width="66" height="66" alt="Instagram logo" />
+    <img src="https://imgur.com/v5YjCPH.png" width="60" height="60" alt="Instagram logo" />
+  </a>
+  <a href="https://tiagogab.medium.com/" target="_blank">
+    <img src="https://imgur.com/kY4sTz3.png" width="60" height="60" alt="Medium logo" />
   </a>
 </div>
 
